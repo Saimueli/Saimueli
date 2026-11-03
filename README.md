@@ -1,5 +1,5 @@
-# 💫 About Me:
-My Device:<br>Lenovo ThinkPad T14 Gen 1<br>Intel(R) Core(TM) i5-10310U (8) @ 4.40 GHz<br>Intel UHD Graphics @ 1.15 GHz [Integrated]<br>24GB DDR4 Ram
+# 💫 My Device:
+Lenovo ThinkPad T14 Gen 1<br>Intel(R) Core(TM) i5-10310U (8) @ 4.40 GHz<br>Intel UHD Graphics @ 1.15 GHz [Integrated]<br>24GB DDR4 Ram
 
 
 # 💻 Tech Stack:
